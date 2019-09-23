@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.innerinner1 {
+    background-color: black;
+    margin: 15px;
+    border-radius: 5px;
+
+    width: 300px;
+
+    font-size: 72px;
+    text-align: center;
+    color: white;
+}
+
+.outer {
+    flex: display;
+}
+.block:active {
+    transform: translate(40px, -20px);
+}
